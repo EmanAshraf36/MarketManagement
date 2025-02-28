@@ -1,7 +1,11 @@
 using Plugins.DataStore.InMemory;
 using System;
 using System.Text;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
 using Plugins.DataStore.SQL;
 using UseCases;
 using UseCases.CategoriesUseCases;

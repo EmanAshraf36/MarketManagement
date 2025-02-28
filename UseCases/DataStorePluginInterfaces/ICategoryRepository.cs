@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using CoreBusiness;
 namespace UseCases.DataStorePluginInterfaces;
 public interface ICategoryRepository
