@@ -1,0 +1,437 @@
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/appsettings.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/WebApp
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/WebApp.deps.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/WebApp.runtimeconfig.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/WebApp.dll
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/WebApp.pdb
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.dll
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.pdb
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/ref/WebApp.dll
+/Users/emyashraf/RiderProjects/WebApp/WebApp/bin/Debug/net8.0/WebApp.staticwebassets.runtime.json
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/Users/emyashraf/RiderProjects/WebApp/WebApp/obj/Debug/net8.0/WebApp.sourcelink.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/appsettings.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/WebApp.staticwebassets.runtime.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/WebApp
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/WebApp.deps.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/WebApp.runtimeconfig.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/WebApp.dll
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/bin/Debug/net8.0/WebApp.pdb
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.sourcelink.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.dll
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.pdb
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+/Users/mahmoudeAswaaq/RiderProjects/WebApp/obj/Debug/net8.0/ref/WebApp.dll
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/appsettings.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.staticwebassets.runtime.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.deps.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.runtimeconfig.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.dll
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.pdb
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.sourcelink.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.dll
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.pdb
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+/Users/mahmoudeAswaaq/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/ref/WebApp.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/appsettings.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.staticwebassets.runtime.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.deps.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.runtimeconfig.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/WebApp.pdb
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.sourcelink.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.pdb
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/ref/WebApp.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Plugins.DataStore.InMemory.pdb
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.csproj.AssemblyReference.cache
+/Users/emyashraf/RiderProjects/Market Management/WebApp/obj/Debug/net8.0/WebApp.csproj.Up2Date
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Azure.Core.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Azure.Identity.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Humanizer.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.ClientModel.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.CodeDom.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Text.Json.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Plugins.DataStore.SQL.dll
+/Users/emyashraf/RiderProjects/Market Management/WebApp/bin/Debug/net8.0/Plugins.DataStore.SQL.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/appsettings.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/appsettings.Development.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/WebApp.staticwebassets.runtime.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/WebApp
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/WebApp.deps.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/WebApp.runtimeconfig.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/WebApp.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/WebApp.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Azure.Core.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Azure.Identity.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Humanizer.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.ClientModel.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.CodeDom.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Text.Json.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Plugins.DataStore.SQL.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Plugins.DataStore.InMemory.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/Plugins.DataStore.SQL.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/bin/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.csproj.AssemblyReference.cache
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cache
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.RazorAssemblyInfo.cs
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.sourcelink.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.WebApp.props
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WebApp.props
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WebApp.props
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/scopedcss/bundle/WebApp.styles.css
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.csproj.Up2Date
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/refint/WebApp.dll
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/WebApp.genruntimeconfig.cache
+/Users/emyashraf/RiderProjects/MarketManagement/WebApp/obj/Debug/net8.0/ref/WebApp.dll

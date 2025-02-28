@@ -1,0 +1,30 @@
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/UseCases/bin/Debug/net8.0/UseCases.deps.json
+/Users/emyashraf/RiderProjects/Market Management/UseCases/bin/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/Market Management/UseCases/bin/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/Market Management/UseCases/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/Market Management/UseCases/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.csproj.AssemblyReference.cache
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.csproj.Up2Date
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/refint/UseCases.dll
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/Market Management/UseCases/obj/Debug/net8.0/ref/UseCases.dll
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/bin/Debug/net8.0/UseCases.deps.json
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/bin/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/bin/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.csproj.AssemblyReference.cache
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.csproj.Up2Date
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/refint/UseCases.dll
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/UseCases/obj/Debug/net8.0/ref/UseCases.dll

@@ -1,0 +1,22 @@
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/bin/Debug/net8.0/CoreBusiness.deps.json
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/CoreBusiness.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/CoreBusiness.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/CoreBusiness.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/refint/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/Market Management/CoreBusiness/obj/Debug/net8.0/ref/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/bin/Debug/net8.0/CoreBusiness.deps.json
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/CoreBusiness.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/CoreBusiness.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/CoreBusiness.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/refint/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/CoreBusiness/obj/Debug/net8.0/ref/CoreBusiness.dll

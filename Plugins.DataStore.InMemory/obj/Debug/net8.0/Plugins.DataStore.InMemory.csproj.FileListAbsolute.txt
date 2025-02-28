@@ -1,0 +1,34 @@
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/bin/Debug/net8.0/Plugins.DataStore.InMemory.deps.json
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/bin/Debug/net8.0/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/bin/Debug/net8.0/Plugins.DataStore.InMemory.pdb
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/bin/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/bin/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins..E125B32D.Up2Date
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/refint/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.pdb
+/Users/emyashraf/RiderProjects/Market Management/Plugins.DataStore.InMemory/obj/Debug/net8.0/ref/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/bin/Debug/net8.0/Plugins.DataStore.InMemory.deps.json
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/bin/Debug/net8.0/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/bin/Debug/net8.0/Plugins.DataStore.InMemory.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/bin/Debug/net8.0/CoreBusiness.dll
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/bin/Debug/net8.0/UseCases.dll
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/bin/Debug/net8.0/CoreBusiness.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/bin/Debug/net8.0/UseCases.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.AssemblyInfo.cs
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins..E125B32D.Up2Date
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/refint/Plugins.DataStore.InMemory.dll
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/Plugins.DataStore.InMemory.pdb
+/Users/emyashraf/RiderProjects/MarketManagement/Plugins.DataStore.InMemory/obj/Debug/net8.0/ref/Plugins.DataStore.InMemory.dll
