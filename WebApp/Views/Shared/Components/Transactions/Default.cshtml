@@ -1,4 +1,6 @@
-@model IEnumerable<Transaction>
+@using Microsoft.EntityFrameworkCore.Migrations
+@using CoreBusiness
+@model IEnumerable<CoreBusiness.Transaction>
 
 @if (Model != null && Model.Any())
 {

@@ -23,7 +23,7 @@ public class CategorySQLRepository : ICategoryRepository
     public void DeleteCategory(int id)
     {
         var category = db.Categories.Find(id);
-        if (category != null) return;
+        if (category == null) return;
         
         db.Categories.Remove(category);
         db.SaveChanges();
