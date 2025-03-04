@@ -9,7 +9,6 @@ using UseCases.TransactionsUseCases;
 using Microsoft.AspNetCore.Identity;
 using WebApp.Data;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AccountContext>(options =>
@@ -24,8 +23,12 @@ builder.Services.AddDbContext<MarketContext>(options =>
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<AccountContext>();
 
+builder.Services.AddAuthorization(options =>{
+    options.AddPolicy("Inventory", p => p.RequireClaim("Position", "Inventory"));
+    options.AddPolicy("Cashiers", p => p.RequireClaim("Position", "Cashier"));
+});
 
-
+builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
 
 if (builder.Environment.IsEnvironment("QA"))
@@ -63,6 +66,11 @@ var app = builder.Build();
 
 
 app.UseRouting();
+
+app.UseAuthentication();
+app.UseAuthorization();
+
+app.MapRazorPages();
 app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
 app.UseStaticFiles(); // this for enable css files in wwwroot folder
 app.Run();

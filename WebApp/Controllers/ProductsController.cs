@@ -1,4 +1,5 @@
 using CoreBusiness;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using UseCases;
 using UseCases.CategoriesUseCases;
@@ -8,7 +9,7 @@ using WebApp.ViewModels;
 
 
 namespace WebApp.Controllers;
-
+[Authorize(Policy = "Inventory")]
 public class ProductsController : Controller
 {
     private readonly IAddProductUseCase addProductUseCase;
@@ -17,7 +18,7 @@ public class ProductsController : Controller
     private readonly IViewSelectedProductUseCase viewSelectedProductUseCase;
     private readonly IViewProductsUseCase viewProductsUseCase;
     private readonly IViewCategoriesUseCase viewCategoriesUseCase;
-    private readonly IViewProductsInCategoryUseCase viewProductsInCategoryUseCase;
+
     // GET
     public ProductsController(IAddProductUseCase addProductUseCase, IEditProductUseCase editProductUseCase, IDeleteProductUseCase deleteProductUseCase, IViewSelectedProductUseCase viewSelectedProductUseCase, IViewProductsUseCase viewProductsUseCase, IViewCategoriesUseCase viewCategoriesUseCase, IViewProductsInCategoryUseCase viewProductsInCategoryUseCase)
     {
@@ -27,7 +28,7 @@ public class ProductsController : Controller
         this.viewSelectedProductUseCase = viewSelectedProductUseCase;
         this.viewProductsUseCase = viewProductsUseCase;
         this.viewCategoriesUseCase = viewCategoriesUseCase;
-        this.viewProductsInCategoryUseCase = viewProductsInCategoryUseCase;
+        
     }
 
     public IActionResult Index()
@@ -86,13 +87,7 @@ public class ProductsController : Controller
         deleteProductUseCase.Execute(id);
         return RedirectToAction("Index");
     }
-
-    public IActionResult ProductsByCategoryPartial(int categoryId)
-    {
-        var products = viewProductsInCategoryUseCase.Execute(categoryId);
-        return PartialView("_Products", products);
-        //the View name and the model name
-    }
+    
     
 }
 

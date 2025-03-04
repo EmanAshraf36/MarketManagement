@@ -1,10 +1,13 @@
 using Microsoft.AspNetCore.Mvc;
 using CoreBusiness;
+using Microsoft.AspNetCore.Authorization;
 using WebApp.ViewModels;
 using UseCases;
 using UseCases.TransactionsUseCases;
 using WebApp.Models;
 
+namespace WebApp.Controllers;
+[Authorize]
 public class TransactionsController : Controller
 {
     private readonly ISearchTransactionsUseCase searchTransactionsUseCase;
